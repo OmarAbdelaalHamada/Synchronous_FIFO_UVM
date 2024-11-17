@@ -52,7 +52,7 @@ The verification plan focuses on covering all possible scenarios, such as:
 ## How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/UVM_FIFO_Project.git
+   git clone https://github.com/OmarAbdelaalHamada/UVM_FIFO_Project.git
    ```
 2. Set up your environment to support UVM and SystemVerilog simulation.
 3. Run the UVM testbench:
